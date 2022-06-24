@@ -13,20 +13,13 @@ This is Web Enumeration Tool with GUI to automate tasks like
 
 ---
 
-This is a python tool designed to enumerate subdomains of websites using
-the cert.sh and dnsdumpster.
+This is a python tool designed to enumerate subdomains of websites using the crt.sh and dnsdumpster.
 </br>
-The Port Scanning is done thorough
-simple and basic technique in port scanning you give
-inputs the range of port in 'from' and 'to' the range
-of ports you want to look for, and you can also
-decide the number of threads.
+Port Scanning is done through a simple and basic technique in port scanning you give inputs the range of ports in 'from' and 'to' the range of ports you want to look for, and you can also decide the number of threads.
 </br>
-In Directory Bruteforce you select the wordlist from
-given options and start attack.
+In Directory Bruteforce you select the wordlist from given options and start the attack.
 </br>
-For finding the WayBack Urls it's very simple you
-just hit the button, and you are good to go.
+For finding the WayBack Urls it's straightforward you just hit the button, and you are good to go
 </br>
 
 ## Installation
